@@ -1,0 +1,15 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: $black;
+  font-family: $font-sans-serif;
+  font-size: 1.6rem;
+  background-color: $white;
+}
+
+@mixin home-grid {
+  display: grid;
+  grid-template-rows: auto auto;
+}

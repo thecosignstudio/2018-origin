@@ -1,0 +1,16 @@
+// Typography
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,700&subset=japanese');
+
+$font-sans-serif: 'M PLUS Rounded 1c', 'system', sans-serif;
+$font-monospace: monospace;
+
+// Colors
+$black: #081514;
+$white: #fcfcfc;
