@@ -23,7 +23,12 @@ module.exports = {
       },
       {
         test: /\.(png|jpg|gif|mp4|ogg|svg|woff|woff2|ttf|eot)$/,
-        loader: 'file-loader'
+        use: [{
+          loader: 'file-loader',
+          options: {
+            outputPath: '../assets/img',
+          },  
+        }]
       },
     ]
   },
