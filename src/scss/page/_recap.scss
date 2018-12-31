@@ -1,9 +1,69 @@
 .recap-title {
-  padding-top: 53.33333%;
+  margin-top: 24px;
+  padding-top: 30%;
   font-size: 2.4rem;
   font-weight: 700;
   background-image: url('../assets/img/cosign_logo_b.svg');
   background-size: 50% auto;
   background-position: left top;
   background-repeat: no-repeat;
+}
+
+.event-layout {
+  position: relative;
+  padding: 0 16px 0 24px;
+
+  &::before {
+    position: absolute;
+    box-sizing: content-box;
+    left: 0;
+    top: -2px;
+    z-index: 20;
+    content: '';
+    width: 12px;
+    height: 12px;
+    background-color: $papaya;
+    border: 4px solid $black;
+    border-radius: 50%;
+
+    @media screen and (min-width: 768px) {
+      top: 4px;
+    }
+  }
+
+  &::after {
+    position: absolute;
+    left: 9px;
+    top: 16px;
+    z-index: 10;
+    content: '';
+    height: 100%;
+    border-left: 2px solid rgba($white, 0.5);
+  }
+}
+
+.event-hr {
+  margin: 16px 0;
+  border-top: 0;
+  border-bottom: 1px solid rgba($white, 0.2);
+}
+
+.event-title-date {
+  color: $livingcoral;
+  font-size: 1.4rem;
+
+  @media screen and (min-width: 768px) {
+    position: absolute;
+    left: -90px;
+    top: 6px;
+  }
+}
+
+.event-title-name {
+  color: rgba($white, 0.8);
+  font-size: 2.4rem;
+}
+
+.recap-footer {
+  margin-bottom: 32px;
 }

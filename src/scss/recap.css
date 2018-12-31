@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,700&subset=japanese");
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma"); }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  color: #edf2f4;
+  font-family: "M PLUS Rounded 1c", "system", sans-serif;
+  font-size: 1.6rem;
+  background-color: #081514; }
+
+.recap-title {
+  margin-top: 24px;
+  padding-top: 30%;
+  font-size: 2.4rem;
+  font-weight: 700;
+  background-image: url("../assets/img/cosign_logo_b.svg");
+  background-size: 50% auto;
+  background-position: left top;
+  background-repeat: no-repeat; }
+
+.event-layout {
+  position: relative;
+  padding: 0 16px 0 24px; }
+  .event-layout::before {
+    position: absolute;
+    box-sizing: content-box;
+    left: 0;
+    top: -2px;
+    z-index: 20;
+    content: '';
+    width: 12px;
+    height: 12px;
+    background-color: #fea166;
+    border: 4px solid #081514;
+    border-radius: 50%; }
+    @media screen and (min-width: 768px) {
+      .event-layout::before {
+        top: 4px; } }
+  .event-layout::after {
+    position: absolute;
+    left: 9px;
+    top: 16px;
+    z-index: 10;
+    content: '';
+    height: 100%;
+    border-left: 2px solid rgba(237, 242, 244, 0.5); }
+
+.event-hr {
+  margin: 16px 0;
+  border-top: 0;
+  border-bottom: 1px solid rgba(237, 242, 244, 0.2); }
+
+.event-title-date {
+  color: #ff6f61;
+  font-size: 1.4rem; }
+  @media screen and (min-width: 768px) {
+    .event-title-date {
+      position: absolute;
+      left: -90px;
+      top: 6px; } }
+
+.event-title-name {
+  color: rgba(237, 242, 244, 0.8);
+  font-size: 2.4rem; }
+
+.recap-footer {
+  margin-bottom: 32px; }
