@@ -1,12 +1,25 @@
 .recap-title {
-  margin-top: 24px;
-  padding-top: 30%;
+  margin-top: 180px;
+  padding-top: 56%;
   font-size: 2.4rem;
   font-weight: 700;
-  background-image: url('../assets/img/cosign_logo_b.svg');
-  background-size: 50% auto;
-  background-position: left top;
+  background-image: url('../assets/img/ic_2018.svg');
+  background-size: 92% auto;
+  background-position: center 5%;
   background-repeat: no-repeat;
+
+  @media screen and (min-width: 768px) {
+    padding-top: 32%;
+    background-size: 50% auto;
+  }
+}
+
+.recap-tagline {
+  margin-bottom: 120px;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+
 }
 
 .event-layout {
@@ -20,9 +33,9 @@
     top: -2px;
     z-index: 20;
     content: '';
-    width: 12px;
-    height: 12px;
-    background-color: $papaya;
+    width: 10px;
+    height: 10px;
+    background-color: $white;
     border: 4px solid $black;
     border-radius: 50%;
 
@@ -38,18 +51,18 @@
     z-index: 10;
     content: '';
     height: 100%;
-    border-left: 2px solid rgba($white, 0.5);
+    border-left: 1px solid rgba($white, 0.5);
   }
 }
 
 .event-hr {
-  margin: 16px 0;
+  margin: 0 0 16px;
   border-top: 0;
   border-bottom: 1px solid rgba($white, 0.2);
 }
 
 .event-title-date {
-  color: $livingcoral;
+  color: $skyblue;
   font-size: 1.4rem;
 
   @media screen and (min-width: 768px) {
@@ -60,8 +73,17 @@
 }
 
 .event-title-name {
-  color: rgba($white, 0.8);
+  color: $white;
   font-size: 2.4rem;
+}
+
+.event-points {
+  padding: 0 0 0 16px;
+}
+
+.event-point-item {
+  font-weight: 300;
+  list-style-type: square;
 }
 
 .recap-footer {

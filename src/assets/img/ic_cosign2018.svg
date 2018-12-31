@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="119px" viewBox="0 0 312 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_cosign2018</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-564.000000, -115.000000)">
+            <g id="Group-2" transform="translate(565.000000, 115.000000)">
+                <path d="M45.6589147,65.4217687 C45.6589147,78.0566912 35.4378185,88.2993197 22.8294574,88.2993197 C10.2210962,88.2993197 0,78.0566912 0,65.4217687 L0,34.1156463 C0,21.4807237 10.2210962,11.2380952 22.8294574,11.2380952 C35.4378185,11.2380952 45.6589147,21.4807237 45.6589147,34.1156463" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1.5999999" x="60.0764857" y="12.0380952" width="44.0589148" height="75.4612246" rx="22.0294574"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1.5999999" x="205.864599" y="12.0380952" width="44.0589148" height="75.4612246" rx="22.0294574"></rect>
+                <path d="M264.320411,9.68825934 L264.320411,89.1020408" id="Path-2" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <path d="M250.702839,9.68825934 L250.702839,89.1020408" id="Path-2" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <path d="M250.723514,63.8163265 L250.723514,95.122449 C250.723514,107.757372 240.502418,118 227.894057,118 C215.285696,118 205.064599,107.757372 205.064599,95.122449" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <path d="M264.341085,80.2721088 L264.341085,33.3129252 C264.341085,20.6780026 274.562181,10.4353741 287.170543,10.4353741 C299.778904,10.4353741 310,20.6780026 310,33.3129252 L310,88.8016426" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <path d="M185.819119,9.68825934 L185.819119,89.1020408" id="Path-2" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+                <g id="Group-3" transform="translate(114.547804, 8.829932)" stroke="#FFFFFF" stroke-width="1.5999999">
+                    <path d="M6.40826873,33.3129252 L6.40826873,22.877551 C6.40826873,10.2426285 16.6293649,2.85183819e-15 29.2377261,0 C40.1933339,-2.85183819e-15 49.3465206,7.73333986 51.5579415,18.0498483" id="Rectangle"></path>
+                    <path d="M52.8682171,48.5646259 L52.8682171,59 C52.8682171,71.6349225 42.6471208,81.877551 30.0387597,81.877551 C19.5095302,81.877551 10.6451561,74.7344412 8.00798185,65.0201774" id="Rectangle"></path>
+                    <path d="M15.2196382,28.8979592 L43.255814,56.1904762" id="Path-3"></path>
+                </g>
+                <ellipse id="Oval-3" fill="#FFFFFF" cx="185.839793" cy="1.60544218" rx="1.60206718" ry="1.60544218"></ellipse>
+                <path d="M35.245478,101.142857 L72.516931,101.142857" id="Path-4" stroke="#FFFFFF" stroke-width="1.5999999"></path>
+            </g>
+        </g>
+    </g>
+</svg>
