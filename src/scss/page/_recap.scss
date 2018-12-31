@@ -24,7 +24,7 @@
 
 .event-layout {
   position: relative;
-  padding: 0 16px 0 24px;
+  padding: 0 16px 36px 24px;
 
   &::before {
     position: absolute;
@@ -55,8 +55,71 @@
   }
 }
 
+.icon-1 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_1.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.icon-2 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_2.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+
+.icon-3 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_3.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.icon-4 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_4.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.icon-5 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_5.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.icon-6 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_6.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.icon-7 {
+  display: block;
+  width: 180px;
+  height: 180px;
+  background-image: url('../assets/img/ic_7.svg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
 .event-hr {
-  margin: 0 0 16px;
+  margin: 24px 0 16px;
   border-top: 0;
   border-bottom: 1px solid rgba($white, 0.2);
 }
@@ -82,10 +145,14 @@
 }
 
 .event-point-item {
+  font-size: 1.4rem;
   font-weight: 300;
   list-style-type: square;
 }
 
 .recap-footer {
-  margin-bottom: 32px;
+  font-size: 2rem;
+  font-weight: 300;
+  text-align: center;
+  margin: 100px 0 50px;
 }

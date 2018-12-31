@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="68.0905037" cy="68.7713128" r="5.42387739"></circle>
+        <circle id="path-2" cx="43.0676355" cy="43.791738" r="5.42387739"></circle>
+        <circle id="path-3" cx="10.496207" cy="119.660247" r="5.42387739"></circle>
+        <circle id="path-4" cx="54.3771593" cy="161.207287" r="5.42387739"></circle>
+        <circle id="path-5" cx="99.1628736" cy="119.660247" r="5.42387739"></circle>
+    </defs>
+    <g id="ic_7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="indoor-flower-plant" transform="translate(69.000000, 41.000000)">
+            <path d="M55.035949,161.419058 C86.1167902,161.419058 99.2819424,148.147809 99.2819424,119.586747" id="Path-542" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M55.035949,161.419058 C86.1167902,161.419058 99.2819424,148.147809 99.2819424,119.586747" id="Path-542" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(77.158946, 140.502903) scale(-1, -1) translate(-77.158946, -140.502903) "></path>
+            <path d="M9.25365084,161.419058 C40.3344921,161.419058 53.4996442,148.147809 53.4996442,119.586747" id="Path-542" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(31.376648, 140.502903) scale(-1, 1) translate(-31.376648, -140.502903) "></path>
+            <path d="M9.25365084,161.419058 C40.3344921,161.419058 53.4996442,148.147809 53.4996442,119.586747" id="Path-542" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(31.376648, 140.502903) scale(1, -1) translate(-31.376648, -140.502903) "></path>
+            <ellipse id="Oval-37" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="55.2338983" cy="55.9369513" rx="17.3898305" ry="17.3597435"></ellipse>
+            <path d="M68.882633,88.7275779 C68.882633,98.2287068 68.1597003,111.385387 55.29861,111.385387 C42.4375197,111.385387 41.7084746,98.2409105 41.7084746,88.7275779" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M68.882633,0 C68.882633,9.5011289 68.1597003,22.6578092 55.29861,22.6578092 C42.4375197,22.6578092 41.7084746,9.51333259 41.7084746,0" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(55.295554, 11.328905) scale(1, -1) translate(-55.295554, -11.328905) "></path>
+            <path d="M100.37597,76.4542739 C100.384204,85.9636363 99.6732976,99.1310925 86.8233332,99.1199666 C73.9733687,99.1088408 73.2335636,85.9523428 73.2253196,76.4307662" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(86.800679, 87.775370) rotate(-45.000000) translate(-86.800679, -87.775370) "></path>
+            <path d="M37.5495709,13.6853677 C37.5413375,23.1947301 36.8076289,36.3634371 23.9576644,36.3745629 C11.1077,36.3856887 10.3906762,23.230452 10.3989202,13.7088754" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.974211, 25.029969) scale(1, -1) rotate(45.000000) translate(-23.974211, -25.029969) "></path>
+            <path d="M37.2424084,76.4542739 C37.2506418,85.9636363 36.5397357,99.1310925 23.6897712,99.1199666 C10.8398068,99.1088408 10.1000016,85.9523428 10.0917576,76.4307662" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.667117, 87.775370) scale(-1, 1) rotate(-45.000000) translate(-23.667117, -87.775370) "></path>
+            <path d="M100.068945,13.6853677 C100.060711,23.1947301 99.3270027,36.3634371 86.4770383,36.3745629 C73.6270738,36.3856887 72.91005,23.230452 72.918294,13.7088754" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(86.493585, 25.029969) scale(-1, -1) rotate(45.000000) translate(-86.493585, -25.029969) "></path>
+            <path d="M114.033187,44.8395828 C114.033187,54.3571786 112.937711,68.114753 99.7473373,68.114753 C86.556964,68.114753 86.1807149,54.947495 86.1807149,45.4176744" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(100.106951, 56.477168) rotate(-90.000000) translate(-100.106951, -56.477168) "></path>
+            <path d="M25.0782125,45.4912933 C25.0782125,55.0088891 24.3565306,68.1883719 11.5176919,68.1883719 C-1.32114674,68.1883719 -2.04893055,55.021114 -2.04893055,45.4912933" id="Path-543" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.514641, 56.839833) scale(1, -1) rotate(90.000000) translate(-11.514641, -56.839833) "></path>
+            <g id="Oval-Copy-583" transform="translate(68.090504, 68.771313) rotate(-135.000000) translate(-68.090504, -68.771313) " stroke="#151515">
+                <circle stroke-width="2.7" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="68.0905037" cy="68.7713128" r="4.07387739"></circle>
+                <use stroke-width="1.8" xlink:href="#path-1"></use>
+            </g>
+            <g id="Oval-Copy-584" transform="translate(43.067636, 43.791738) rotate(-135.000000) translate(-43.067636, -43.791738) " stroke="#151515">
+                <circle stroke-width="2.7" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="43.0676355" cy="43.791738" r="4.07387739"></circle>
+                <use stroke-width="1.8" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval-Copy-585" transform="translate(10.496207, 119.660247) rotate(-135.000000) translate(-10.496207, -119.660247) " stroke="#151515">
+                <circle stroke-width="2.7" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="10.496207" cy="119.660247" r="4.07387739"></circle>
+                <use stroke-width="1.8" xlink:href="#path-3"></use>
+            </g>
+            <g id="Oval-Copy-586" transform="translate(54.377159, 161.207287) rotate(-135.000000) translate(-54.377159, -161.207287) " stroke="#151515">
+                <circle stroke-width="2.7" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="54.3771593" cy="161.207287" r="4.07387739"></circle>
+                <use stroke-width="1.8" xlink:href="#path-4"></use>
+            </g>
+            <g id="Oval-Copy-585" transform="translate(99.162874, 119.660247) rotate(-135.000000) translate(-99.162874, -119.660247) " stroke="#151515">
+                <circle stroke-width="2.7" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="99.1628736" cy="119.660247" r="4.07387739"></circle>
+                <use stroke-width="1.8" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="26" r="6"></circle>
+        <circle id="path-2" cx="58" cy="56" r="6"></circle>
+        <circle id="path-3" cx="24" cy="85" r="6"></circle>
+        <circle id="path-4" cx="58" cy="116" r="6"></circle>
+    </defs>
+    <g id="ic_6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="story-telling" transform="translate(58.000000, 48.000000)">
+            <path d="M10.1302988,29.7835013 C5.32308713,29.7835013 0.120261703,33.6191666 0.120261703,39.5743576 C0.120261703,45.5295486 0.120261703,140.164807 0.120261703,145.644687 C0.120261703,151.124568 3.07998074,154.125122 8.45379833,154.125122 C13.8276159,154.125122 66.1372642,154.125122 71.0734631,154.125122 C76.009662,154.125122 79.6083041,151.236909 79.6083041,145.644687 C79.6083041,140.052466 79.6083041,44.9201946 79.6083041,39.5603673 C79.6083041,34.20054 75.3692528,29.9785878 69.4622505,29.9785878" id="Path-262" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M123.987875,29.0063308 L95.1021573,29.0063308" id="Path-264" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M82.2024125,0.483556301 C75.8654967,0.483556301 69.6711714,4.76126947 69.6711714,12.8132041 C69.6711714,18.1811605 69.6711714,58.404472 69.6711714,133.483139" id="Path-265" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M79.8614827,133.749246 L0.664011231,133.749246" id="Path-266" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,26.1454545 L57.7003188,26.1454545" id="Path-268" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,40.9818182 L57.7003188,40.9818182" id="Path-268-Copy" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,55.8181818 L57.7003188,55.8181818" id="Path-268-Copy-2" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,70.6545455 L57.7003188,70.6545455" id="Path-268-Copy-3" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,85.4909091 L57.7003188,85.4909091" id="Path-268-Copy-4" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,100.327273 L57.7003188,100.327273" id="Path-268-Copy-5" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.2545455,115.163636 L57.7003188,115.163636" id="Path-268-Copy-6" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M102.911601,120.01349 L79.7848854,120.01349" id="Path-270" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10.1407648,133.562412 C10.1407648,58.2534512 10.1407648,18.0376419 10.1407648,12.9149843 C10.1407648,5.23099803 15.1022554,0.427982585 22.9528695,0.427982585 C30.8034836,0.427982585 74.387342,0.427982585 82.2074049,0.427982585 C90.0274678,0.427982585 94.0411552,6.69684156 94.0411552,12.9149843 C94.0411552,19.1331271 94.0411552,99.4707092 94.0411552,108.648463 C94.0411552,117.826217 100.611778,119.969695 103.487695,119.969695 C106.363612,119.969695 114.221338,118.700041 114.221338,108.648463 C114.221338,98.5968855 114.221338,46.3043006 114.221338,39.1253569 C114.221338,31.9464132 119.289494,29.1312824 124.312952,29.1312824 C129.336411,29.1312824 133.951491,32.1432912 133.951491,39.1253569 C133.951491,43.7800674 133.951491,56.5090023 133.951491,77.3121615" id="Path-263" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M31.0524318,143.799218 L48.3186242,143.799218" id="Path-267" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M134.230358,76.8969311 L114.307551,76.8969311" id="Path-269" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Oval-Copy-496" transform="translate(24.000000, 26.000000) rotate(-90.000000) translate(-24.000000, -26.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="24" cy="26" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="Oval-Copy-499" transform="translate(58.000000, 56.000000) rotate(-90.000000) translate(-58.000000, -56.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="58" cy="56" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval-Copy-500" transform="translate(24.000000, 85.000000) rotate(-90.000000) translate(-24.000000, -85.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="24" cy="85" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-3"></use>
+            </g>
+            <g id="Oval-Copy-501" transform="translate(58.000000, 116.000000) rotate(-90.000000) translate(-58.000000, -116.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="58" cy="116" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

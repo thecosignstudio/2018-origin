@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="141" cy="6" r="6"></circle>
+        <circle id="path-2" cx="21" cy="6" r="6"></circle>
+        <circle id="path-3" cx="6" cy="124" r="6"></circle>
+        <circle id="path-4" cx="156" cy="124" r="6"></circle>
+    </defs>
+    <g id="ic_8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reading-book" transform="translate(44.000000, 58.000000)">
+            <path d="M80.8718583,134.785047 C101.544749,119.307165 126.653645,115.891449 156.198543,124.5379 C156.115263,95.0615854 156.115263,63.391815 156.198543,29.5285894 C149.424633,27.041968 144.635835,25.4785573 141.832148,24.8383572" id="Path-337" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M80.7276596,134.836485 C89.8950075,113.52776 109.977996,101.051029 140.976625,97.4062922 C140.934985,73.9984141 140.934985,43.888924 140.976625,7.07782199 C116.553924,8.75200026 96.4505441,19.9035952 80.6664844,40.5326068" id="Path-338" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M5.80145657,134.785047 C26.1361967,119.307165 51.0760163,115.891449 80.6209151,124.5379 C80.5376349,95.0615854 80.5376349,63.391815 80.6209151,29.5285894 C73.8470051,27.041968 69.0582068,25.4785573 66.2545201,24.8383572" id="Path-337" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(43.211186, 79.811702) scale(-1, 1) translate(-43.211186, -79.811702) "></path>
+            <path d="M21.0264957,134.836485 C29.8723388,113.52776 49.794575,101.051029 80.7932044,97.4062922 C80.7515643,73.9984141 80.7515643,43.888924 80.7932044,7.07782199 C56.7307109,8.75200026 36.8074342,19.9035952 21.0233745,40.5326068" id="Path-338" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.908289, 70.957154) scale(-1, 1) translate(-50.908289, -70.957154) "></path>
+            <path d="M80.7227411,134.855791 L80.7227411,39.6489787" id="Path-339" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="nucleus-copy-25" transform="translate(141.000000, 6.000000) rotate(-90.000000) translate(-141.000000, -6.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="141" cy="6" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="nucleus-copy-28" transform="translate(21.000000, 6.000000) rotate(-90.000000) translate(-21.000000, -6.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="21" cy="6" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-2"></use>
+            </g>
+            <g id="nucleus-copy-29" transform="translate(6.000000, 124.000000) rotate(-90.000000) translate(-6.000000, -124.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="6" cy="124" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-3"></use>
+            </g>
+            <g id="nucleus-copy-30" transform="translate(156.000000, 124.000000) rotate(-90.000000) translate(-156.000000, -124.000000) " stroke="#151515">
+                <circle stroke-width="3" stroke-linejoin="square" fill="#C2C2C2" fill-rule="evenodd" cx="156" cy="124" r="4.5"></circle>
+                <use stroke-width="2" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
